@@ -1,0 +1,36 @@
+.container
+{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+.friend{
+    display: inline-block;
+    text-align: center;
+}
+body{
+    background-color:cadetblue;
+}
+h1{
+    font-size: 100px;
+    color: gainsboro;
+    text-shadow: 5px 0 #232931;
+    margin: 30px;
+}
+p{
+    padding: 15px;
+    font-size: 2rem;
+    color:silver;
+    font-family: 'Indie Flower', cursive;
+}
+img{
+    width: 50%;
+    height:30%;
+}
+footer{
+    text-align: center;
+    margin: 50px;
+}
+.next{
+    margin: 50px;
+}
